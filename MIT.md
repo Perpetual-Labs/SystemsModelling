@@ -1,1 +1,0 @@
-Massachusetts institute of technology
