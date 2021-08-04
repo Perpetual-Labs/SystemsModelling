@@ -1,6 +1,11 @@
 # Heat-Exchanger
 
-- This is the system of interest of the #MBQP project. 
+- This is the system of interest of t### Quotes
+-
+
+### Notes
+-
+he #MBQP project. 
 - Our goal is to simulate a system, an [[ECS]], integrating, an Heat-exchanger in [[Modelica language]]. 	
 	-	The first step is to integrate a #CFD analysis in Modelica as an [[FMU]]
 	-	The second step is to integrate a [[surrogate model]] trained using [[Dakota]]  
@@ -12,6 +17,6 @@
 
 
 ##### Useful material
-- [[poud19a]]
-- [[jenn20a]]
-- [[müll07a]]
+- [[poud19a#Title Modelling of a Generic Aircraft Environmental Control System in Modelica]]
+- [[jenn20a#Title Simulation of an aircraft environmental control system]]
+- [[müll07a#Title Dynamic simulation of innovative aircraft air conditioning]]

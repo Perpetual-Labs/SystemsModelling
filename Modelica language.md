@@ -8,7 +8,7 @@ The Modelica Language is a non-proprietary, object-oriented, equation based lang
 ### Main Developers: 
 - [[Peter Fritzson]]
 - [[Adrian Pop]]
-- [[Adeel]
+- [[Adeel]]
 - [[Martin Otter]], #DLR - Institute of System Dynamics and Control.
 
 
