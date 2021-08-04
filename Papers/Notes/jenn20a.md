@@ -1,10 +1,13 @@
 # Title: Simulation of an aircraft environmental control system
-## Tags: #ECS 
+### Links: [[ECS]] 
+### Tags:
 ### Author: [[Jennions]]
-###### Suggested readers:  #Lorenzo 
+### Suggested readers:  #Lorenzo 
 ### Notes:
 ![[jenn20aNote_L]]
-###### Links: 
-###### PDF 
+### Cited papers:
+- [[müll07a]]
+### Links: 
+### PDF 
 ![[jenn20a.pdf]]
 
