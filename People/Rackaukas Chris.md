@@ -1,4 +1,4 @@
-#### Name: Rackaukas Chris
+#### Name: Rackauckas Chris
 #### Email:
 #### Organisation: #MIT
 #### Tags: 
